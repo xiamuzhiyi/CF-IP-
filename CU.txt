@@ -22,14 +22,35 @@
 69.63.209.127:443#🇺🇸 | Los Angeles | ⬇️30.0MB/s | v4 | ❤️CDN
 179.253.247.8:443#🇺🇸 | Los Angeles | ⬇️28.7MB/s | v4 | ❤️CDN
 69.63.212.183:443#🇺🇸 | Los Angeles | ⬇️26.5MB/s | v4 | ❤️CDN
-179.255.155.109:8443#🇺🇸 | Los Angeles | ⬇️22.6MB/s | v4 | ❤️CDN
-191.222.223.76:443#🇯🇵 | Tokyo | ⬇️21.4MB/s | v4 | ❤️CDN
-191.223.214.205:8443#🇭🇰 | Hong Kong | ⬇️18.6MB/s | v4 | ❤️CDN
-191.223.208.89:8443#🇭🇰 | Hong Kong | ⬇️17.2MB/s | v4 | ❤️CDN
-179.255.138.140:443#🇺🇸 | Los Angeles | ⬇️16.4MB/s | v4 | ❤️CDN
-179.255.108.92:443#🇺🇸 | Los Angeles | ⬇️15.8MB/s | v4 | ❤️CDN
-179.253.245.146:443#🇺🇸 | Los Angeles | ⬇️15.5MB/s | v4 | ❤️CDN
-179.255.152.92:8443#🇺🇸 | Los Angeles | ⬇️15.5MB/s | v4 | ❤️CDN
-179.255.148.154:443#🇺🇸 | Los Angeles | ⬇️15.5MB/s | v4 | ❤️CDN
-69.63.192.91:443#🇺🇸 | Los Angeles | ⬇️15.4MB/s | v4 | ❤️CDN
-191.223.214.205:443#🇭🇰 | Hong Kong | ⬇️14.7MB/s | v4 | ❤️CDN
+38.59.243.17:443#🇺🇸 | San Jose | ⬇️56.5MB/s | v4 | ❤️CF
+131.143.181.6:8443#🇺🇸 | Los Angeles | ⬇️51.8MB/s | v4 | ❤️CF
+37.123.194.251:443#🇺🇸 | San Jose | ⬇️51.1MB/s | v4 | ❤️CF
+185.148.14.69:443#🇺🇸 | San Jose | ⬇️51.0MB/s | v4 | ❤️CF
+192.220.64.171:443#🇺🇸 | Los Angeles | ⬇️43.7MB/s | v4 | ❤️CF
+154.53.75.100:443#🇺🇸 | Los Angeles | ⬇️42.8MB/s | v4 | ❤️CF
+38.64.56.69:443#🇺🇸 | Los Angeles | ⬇️41.7MB/s | v4 | ❤️CF
+38.59.244.38:443#🇺🇸 | San Jose | ⬇️40.3MB/s | v4 | ❤️CF
+142.252.101.57:443#🇺🇸 | Los Angeles | ⬇️38.4MB/s | v4 | ❤️CF
+179.255.148.154:443#🇺🇸 | Los Angeles | ⬇️36.4MB/s | v4 | ❤️CF
+179.255.155.109:8443#🇺🇸 | Los Angeles | ⬇️35.3MB/s | v4 | ❤️CF
+144.225.187.54:443#🇺🇸 | Los Angeles | ⬇️34.9MB/s | v4 | ❤️CF
+142.252.101.60:443#🇺🇸 | Los Angeles | ⬇️34.5MB/s | v4 | ❤️CF
+154.9.244.115:8443#🇺🇸 | Los Angeles | ⬇️33.9MB/s | v4 | ❤️CF
+188.255.157.167:443#🇺🇸 | Los Angeles | ⬇️31.3MB/s | v4 | ❤️CF
+142.252.103.169:443#🇺🇸 | Los Angeles | ⬇️31.0MB/s | v4 | ❤️CF
+117.55.231.253:8443#🇺🇸 | Los Angeles | ⬇️27.2MB/s | v4 | ❤️CF
+152.175.97.101:443#🇺🇸 | Los Angeles | ⬇️26.4MB/s | v4 | ❤️CF
+82.21.92.156:443#🇺🇸 | Newark | ⬇️25.5MB/s | v4 | ❤️CF
+192.220.76.219:443#🇺🇸 | Los Angeles | ⬇️25.2MB/s | v4 | ❤️CF
+131.143.180.185:443#🇺🇸 | Los Angeles | ⬇️24.9MB/s | v4 | ❤️CF
+45.76.65.233:443#🇺🇸 | Los Angeles | ⬇️24.1MB/s | v4 | ❤️CF
+154.40.55.23:443#🇺🇸 | Los Angeles | ⬇️21.9MB/s | v4 | ❤️CF
+149.28.94.161:8443#🇺🇸 | Los Angeles | ⬇️21.7MB/s | v4 | ❤️CF
+142.252.101.38:443#🇺🇸 | Los Angeles | ⬇️21.5MB/s | v4 | ❤️CF
+203.88.125.254:443#🇺🇸 | Los Angeles | ⬇️21.0MB/s | v4 | ❤️CF
+38.55.111.251:443#🇺🇸 | Los Angeles | ⬇️20.8MB/s | v4 | ❤️CF
+154.9.249.40:443#🇺🇸 | Los Angeles | ⬇️20.8MB/s | v4 | ❤️CF
+23.142.200.214:443#🇺🇸 | Salt Lake City | ⬇️20.6MB/s | v4 | ❤️CF
+144.225.6.90:443#🇺🇸 | Los Angeles | ⬇️20.6MB/s | v4 | ❤️CF
+114.204.40.185:443#🇯🇵 | Osaka | ⬇️20.3MB/s | v4 | ❤️CF
+185.53.209.168:8443#🇺🇸 | Newark | ⬇️20.3MB/s | v4 | ❤️CF
